@@ -7,6 +7,6 @@
 
 
 # **示意圖**
-  <img src="https://github.com/kaisen0309/PHP-DB_Project/blob/main/images/php3.png" alt="主題圖" width="700" />
-  <img src="https://github.com/kaisen0309/PHP-DB_Project/blob/main/images/php2.png" alt="訂單圖" width="300" />
+  <img src="https://github.com/kaisen0309/Python_project/blob/main/python1.png" alt="臉部偵測" width="500" />
+  <img src="https://github.com/kaisen0309/Python_project/blob/main/python2.png" alt="遊戲圖" width="500" />
 
